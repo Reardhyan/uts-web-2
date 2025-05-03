@@ -75,11 +75,12 @@ node server.js
 ```
 ### • Buka Klien di Browser: Buka index.html di browser untuk melihat notifikasi yang dikirim setiap 5 detik.
 
-# Output
-![gambar](ss_uji_coba_project/ss1_pemrograman_web2.png)
+bukti cek plagiasi
 
 
 
+
+[vtraxpa8.pdf](https://github.com/user-attachments/files/20023969/vtraxpa8.pdf)
 
 
 
